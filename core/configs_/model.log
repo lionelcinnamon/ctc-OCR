@@ -1,0 +1,6 @@
+2019-03-13 11:24:15,535:INFO: Building model...
+2019-03-13 11:24:16,108:WARNING: From /anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/sparse_ops.py:1165: sparse_to_dense (from tensorflow.python.ops.sparse_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Create a `tf.sparse.SparseTensor` and use `tf.sparse.to_dense` instead.
+2019-03-13 11:24:16,395:INFO: - done.
+2019-03-13 11:24:16,395:INFO: Reloading the latest trained model...
